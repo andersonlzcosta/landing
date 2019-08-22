@@ -1,0 +1,30 @@
+footer {
+  width: 100%;
+  height: 20vh;
+  padding-top: 40px;
+  padding-bottom: 50px;
+  margin-top: 50px;
+  text-align: center;
+  background-color: rgb(70,70,70);
+  color: white;
+}
+
+.container ul {
+  list-style-type: none;
+  margin: 0;
+}
+
+footer .container .social-media {
+  display: flex;
+  margin-top: 40px;
+  justify-content: space-around;
+  align-items: flex-start;
+  text-decoration: none;
+  font-size: 55px;
+  color: white;
+}
+
+.social-media i {
+  color: white;
+}
+
